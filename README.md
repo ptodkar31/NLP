@@ -35,13 +35,19 @@ its analog form  to a digital format so that the AI can understand and recognize
 
 
 Automatic Text Summarization:
-Automatic text summarization involves shortening long messages or sections and creating a unique, summarizing paragraph. There are two fundamental techniques:
+Automatic text summarization involves shortening long messages or sections and creating a unique, summarizing paragraph. 
+
+There are two fundamental techniques:
+
 1. Extractive outline:
-   The output message will be a mix of significant sentences removed straightforwardly from the first message. 
-2. Abstractive summary:
+   The output message will be a mix of significant sentences removed straightforwardly from the first message.
+   
+3. Abstractive summary:
    The point is to comprehend the overall significance of sentences, decipher the specific situation, and create new sentences based on the general importance. 
 
+
 ‍For both techniques, NLP is utilized in the text translation steps, which are: 
+
 1.Cleaning the text from filling words
 2.Testing the message with more limited sentences (tokens)
 3.Making a comparability network that addresses relationships between tokens 
