@@ -48,8 +48,12 @@ There are two fundamental techniques:
 
 ‍For both techniques, NLP is utilized in the text translation steps, which are: 
 
-1.Cleaning the text from filling words
-2.Testing the message with more limited sentences (tokens)
-3.Making a comparability network that addresses relationships between tokens 
-4. Working out sentence positions based on semantic likeness 
-5. Choosing sentences with the highest levels to create the outline (either extractive or abstractive)
+1.Cleaning the text from filling words.
+
+2.Testing the message with more limited sentences (tokens).
+
+3.Making a comparability network that addresses relationships between tokens.
+
+4. Working out sentence positions based on semantic likeness.
+  
+5.Choosing sentences with the highest levels to create the outline (either extractive or abstractive).
