@@ -54,6 +54,6 @@ There are two fundamental techniques:
 
 3.Making a comparability network that addresses relationships between tokens.
 
-4. Working out sentence positions based on semantic likeness.
+4.Working out sentence positions based on semantic likeness.
   
 5.Choosing sentences with the highest levels to create the outline (either extractive or abstractive).
